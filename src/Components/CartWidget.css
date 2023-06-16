@@ -1,0 +1,15 @@
+.cartwidget {
+  background-color:black;
+  width: 100%;
+  height: 105px;
+  display: flex;  
+  justify-content: center;
+  align-items: center;
+  padding-left: 50px;
+  padding-right: 50px;     
+}
+
+.cartwidget-ima {
+  width: 55px;
+  height: 40px;
+}

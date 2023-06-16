@@ -1,0 +1,20 @@
+.card
+{
+    background-color: black;
+    width: 250px;
+    height: 250px;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.ima
+{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(79, 85, 85);
+}
+

@@ -1,0 +1,39 @@
+.inicio
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;    
+}
+
+.linkProductos
+{
+    font-size: 30px;
+    color: white;
+}
+
+.servicios
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    padding-top: 50px;   
+}
+
+.productos
+{
+    display: flex;        
+    justify-content: center;
+    align-items: center; 
+    padding-top: 50px;       
+}
+
+
+.principal_container
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
